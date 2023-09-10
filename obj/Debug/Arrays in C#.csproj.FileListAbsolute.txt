@@ -1,0 +1,7 @@
+D:\C# Tuts\Arrays in C#\Arrays in C#\bin\Debug\Arrays in C#.exe.config
+D:\C# Tuts\Arrays in C#\Arrays in C#\bin\Debug\Arrays in C#.exe
+D:\C# Tuts\Arrays in C#\Arrays in C#\bin\Debug\Arrays in C#.pdb
+D:\C# Tuts\Arrays in C#\Arrays in C#\obj\Debug\Arrays in C#.csproj.AssemblyReference.cache
+D:\C# Tuts\Arrays in C#\Arrays in C#\obj\Debug\Arrays in C#.csproj.CoreCompileInputs.cache
+D:\C# Tuts\Arrays in C#\Arrays in C#\obj\Debug\Arrays in C#.exe
+D:\C# Tuts\Arrays in C#\Arrays in C#\obj\Debug\Arrays in C#.pdb
